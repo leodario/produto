@@ -1,3 +1,6 @@
+/* eslint-disable jsx-a11y/alt-text */
+/* eslint-disable react/jsx-no-comment-textnodes */
+/* eslint-disable no-dupe-keys */
 import React, { useState, useEffect } from 'react'
 import '../css/ImagemProduto.css'
 import imagem from '../img/prod02.png'
@@ -14,7 +17,7 @@ export default function ImagemProduto() {
         setNav1(slider1);
         setNav2(slider2);
 
-    })
+    }, [slider1, slider2])
 
     var settings = {
         infinite: true,
@@ -95,6 +98,7 @@ export default function ImagemProduto() {
                                 ref={slider => (setSlider1(slider))}>
                                 {slidesData.map((slide) =>
                                     <div className="slick-slide" key={slide.id}>
+                                       {/* eslint-disable-next-line jsx-a11y/alt-text */}  
                                         <img className="slick-slide-image" src={slide.imagem} />
                                     </div>
                                 )}

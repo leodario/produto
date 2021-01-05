@@ -1,5 +1,5 @@
 import React from 'react'
-import Imagem from '../img/prod02.png'
+// import Imagem from '../img/prod02.png'
 
 export default function ProdutoCarrinho (props) {
     return (

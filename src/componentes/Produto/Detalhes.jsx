@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-unused-vars
 import React, { useContext, useState } from 'react'
 import '../css/Detalhes.css'
 import Preco from './Preco'
@@ -7,6 +8,7 @@ import Descricao from './Descricao'
 import { makeStyles } from '@material-ui/core/styles';
 import Modal from '@material-ui/core/Modal';
 import imagem from '../img/prod02.png'
+// eslint-disable-next-line no-unused-vars
 import Botao from '../Botao'
 import DataContext from '../../data/DataContext'
 

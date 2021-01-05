@@ -5,7 +5,7 @@ import { BrowserRouter, Link } from 'react-router-dom'
 import DataContext from '../../data/DataContext'
 import { makeStyles } from '@material-ui/core/styles';
 import Modal from '@material-ui/core/Modal';
-import Botao from '../Botao'
+// import Botao from '../Botao'
 import ProdutoCarrinho from './ProdutoCarrinho'
 import Imagem from '../img/prod02.png'
 
@@ -52,7 +52,7 @@ export default function Sacola(props) {
         setOpen(false);
     };
 
-    const listaProdutos = context.state.carrinho.produto
+    // const listaProdutos = context.state.carrinho.produto
 
     const body = (
         <div style={modalStyle} className={classes.paper}>
