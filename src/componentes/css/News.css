@@ -1,0 +1,201 @@
+/* form starting stylings ------------------------------- */
+.group 			  { 
+    position:relative; 
+    margin-bottom:45px; 
+    width:216px;
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .News-form input 				{
+    font-size:18px;
+    padding:10px 10px 10px 5px;
+    display:block;
+    width:216px;
+    border:none;
+    border-bottom:1px solid #757575; 
+    display: table;
+    margin: auto;
+  }
+  .News-form input:focus 		{ outline:none; }
+  
+  /* LABEL ======================================= */
+  .News-form label 				 {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 18px;
+    color: rgba(32, 32, 32, 0.5);
+    position:absolute;
+    pointer-events:none;
+    left:5px;
+    top:10px;
+    transition:0.2s ease all; 
+    -moz-transition:0.2s ease all; 
+    -webkit-transition:0.2s ease all;
+  }
+  
+  /* active state */
+  .News-form input:focus ~ label, input:valid ~ label 		{
+    top:-18px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 18px;
+
+    color: rgba(32, 32, 32, 0.5);
+  }
+  
+  /* BOTTOM BARS ================================= */
+  .News-form .bar 	{ position:relative; display:block; width:216px; }
+  .News-form .bar:before, .bar:after 	{
+    content:'';
+    height:2px; 
+    width:0;
+    bottom:1px; 
+    position:absolute;
+    transition:0.2s ease all; 
+    -moz-transition:0.2s ease all; 
+    -webkit-transition:0.2s ease all;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 18px;
+
+    color: rgba(32, 32, 32, 0.5);
+  }
+  .News-form .bar:before {
+    left:50%;
+  }
+  .News-form .bar:after {
+    right:50%; 
+  }
+  
+  /* active state */
+  .News-form input:focus ~ .bar:before, input:focus ~ .bar:after {
+    width:50%;
+  }
+  
+  /* HIGHLIGHTER ================================== */
+  .News-form .highlight {
+    position:absolute;
+    height:60%; 
+    width:100px; 
+    top:25%; 
+    left:0;
+    pointer-events:none;
+    opacity:0.5;
+  }
+  
+  /* active state */
+  .News-form input:focus ~ .highlight {
+    -webkit-animation:inputHighlighter 0.3s ease;
+    -moz-animation:inputHighlighter 0.3s ease;
+    animation:inputHighlighter 0.3s ease;
+  }
+  
+  /* ANIMATIONS ================ */
+  @-webkit-keyframes inputHighlighter {
+      from { background:#5264AE; }
+    to 	{ width:0; background:transparent; }
+  }
+  @-moz-keyframes inputHighlighter {
+      from { background:#5264AE; }
+    to 	{ width:0; background:transparent; }
+  }
+  @keyframes inputHighlighter {
+      from { background:#5264AE; }
+    to 	{ width:0; background:transparent; }
+  }
+
+  .News-botao {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    background: #DE8F75;
+    border-radius: 3px;
+    width: 110px;
+    height: 50px;
+    align-self: center;
+    text-align: center;
+    align-content: center;
+    align-content: center;
+    display: table;
+    margin: auto;
+  }
+
+  .News {
+    background: #FFFFFF;
+    border: 2px solid #AEB6C1;
+    box-sizing: border-box;
+    border-radius: 100%;
+    width: 350px;
+    height: 350px;
+    padding: 3%;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    z-index: 1000;
+  }
+
+  .Titulo-news {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 163.42%;
+    text-align: center;
+    text-transform: uppercase;
+    
+    color: #202020;
+    margin-bottom: 20px;
+  }
+
+  @media (max-width: 600px) {
+    .News {
+      border: none;
+      width: 100%;
+      height: auto;
+    }
+    .group 			  { 
+      position:relative; 
+      margin-bottom:25px; 
+      width:100%;
+      display: table;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .News-form input 				{
+      font-size:18px;
+      padding:10px 10px 10px 5px;
+      display:block;
+      width:100%;
+      border:none;
+      border-bottom:1px solid #757575; 
+      display: table;
+      margin: auto;
+    }
+
+    .Titulo-news {
+      font-family: Montserrat;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 16px;
+      line-height: 163.42%;
+      text-align: center;
+      text-transform: uppercase;
+      color: #BFC6CF;
+      margin-bottom: 10px;
+      margin-top: 40px;
+    }
+  }

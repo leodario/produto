@@ -1,0 +1,26 @@
+.cor-labels {
+    display: block;
+}
+
+.cores-botoes {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.cor-selecionada {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    color: #5F75AA;
+}
+
+.label-cor {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    color: #202020;
+}

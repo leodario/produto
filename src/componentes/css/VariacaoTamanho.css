@@ -1,0 +1,46 @@
+.Botao-tamanho {
+    border: 1px solid #EBEBEB;
+    box-sizing: border-box;
+    border-radius: 2px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 163.42%;
+    /* identical to box height, or 23px */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #5F75AA;
+    transition: 0.5s;
+}
+
+.Botao-tamanho:focus {
+    outline: none;
+}
+
+.Botao-tamanho:hover {
+    color: #FFFFFF;
+    background: #DE8F75;
+    border: 1px solid #EBEBEB;
+    box-sizing: border-box;
+    border-radius: 2px;
+}
+
+Botao-tamanho:active {
+    color: #FFFFFF;
+    background: #DE8F75;
+    border: 1px solid #EBEBEB;
+    box-sizing: border-box;
+    border-radius: 2px;
+}
+
+.active {
+    color: #FFFFFF;
+    background: #DE8F75;
+    border: 1px solid #EBEBEB;
+    box-sizing: border-box;
+    border-radius: 2px; 
+}

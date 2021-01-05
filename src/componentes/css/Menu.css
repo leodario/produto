@@ -1,0 +1,43 @@
+.Menu div{
+    text-align: center;
+    justify-content: center!important;
+    align-items: center;
+}
+
+.Menu-mobile {
+    display: none;
+}
+@media (max-width: 600px) {
+    .desktop {
+        display: none;
+    }
+    .Menu-mobile {
+        display: block;
+        position: absolute;
+        top: 5px;
+        z-index: 1;
+        width: 70%;
+    }
+
+    .Menu-mobile div#basic-navbar-nav {
+        justify-content: center;
+        text-align: center;
+        font-weight: 600;
+        background: #DE8F75;
+    }
+
+    .Menu-mobile button {
+        border: none;
+    }
+    .Menu-mobile button:active {
+        border: none;
+        outline: none;
+        color: #ffffff;
+    }
+    .Menu-mobile button:focus {
+        border: none;
+        outline: none;
+        color: #ffffff;
+
+    }
+}

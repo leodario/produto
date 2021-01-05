@@ -1,0 +1,86 @@
+.Imagem-slide {
+    height: 374px;
+    width: 100%;
+}
+
+.Slide-individual {
+    width: 95%!important;
+}
+
+.Barra-baixo {
+    max-width: 100%!important;
+    padding: 2% 0;
+}
+
+.Preco-slider {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 23px;
+    color: #202020;
+}
+
+.Link-slide-individual {
+    text-decoration: none;
+}
+
+.slick-prev:before,
+.slick-next:before {
+  color: #2A5A75;
+  font-size: 35px;
+}
+
+.SliderRelacionados .slick-prev {
+    left: 47%;
+    top: 106%;
+}
+
+.SliderRelacionados .slick-next {
+    right: 47%;
+    top: 106%;
+}
+
+@media (max-width:600px) {
+    .parcela-relacionados {
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 10px;
+        line-height: 163.42%;
+        color: #202020;
+    }
+
+    .Preco-slider {
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 12px;
+        line-height: 163.42%;
+        color: #202020;
+    }
+
+    .Imagem-slide {
+        height: auto;
+        width: 100%;
+    }
+
+    .SliderRelacionados .slick-prev {
+        left: 40%;
+        top: 105%;
+    }
+    
+    .SliderRelacionados .slick-next {
+        right: 40%;
+        top: 105%;
+    }
+
+    .Slide-individual {
+        width: 95%!important;
+        margin: auto;
+    }
+
+    .SliderRelacionados {
+        margin-bottom: 40px;
+    }
+}

@@ -1,0 +1,46 @@
+.Busca {
+    border-bottom: 1px solid #cccccc;
+    display: inline-grid;
+    grid-template-columns: 20% 80%;
+}
+
+.Busca button {
+    background: #ffffff00;
+    border: none;
+
+}
+
+.Busca button:focus {
+    outline: none;
+}
+
+.Busca button img {
+    width: 20px;
+}
+
+.Busca input {
+    border: none;
+    font-size: 0.9em;
+    font-family: 'Montserrat', sans-serif;
+    color: #898989;
+    background: #ffffff00;
+    max-width: 100%;
+}
+
+.Busca input:focus {
+    outline: none;
+}
+
+@media (max-width: 600px) {
+    .Busca input{
+        display: none;
+    }
+
+    .Busca {
+        border: none;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100%;
+    }
+}

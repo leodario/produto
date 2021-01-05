@@ -1,0 +1,634 @@
+
+{
+    "produtos": [{
+        "id": 1,
+        "nome": "Rasteira Tira Dedo",
+        "SKU": "RT 0568 | 03.07.0653",
+        "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg",
+        "precoNormal": 69.00,
+        "precoPromocional": 55.22,
+        "numeroParcelas" : 6,
+        "valorParcela": 9.20,
+        "cores" : [{
+            "cor" : "#A9095E",
+            "nomeCor" : "fucsia"
+        }, {
+            "cor" : "#2A5A75",
+            "nomeCor" : "Azul"
+        }, {
+            "cor" : "#A14830",
+            "nomeCor" : "Laranja"
+        }, {
+            "cor" : "#000000",
+            "nomeCor" : "Preto"
+        }],
+        "tamanhos" : [{
+            "tamanho" : "33"
+        }, {
+            "tamanho" : "34"
+        }, {
+            "tamanho" : "35"
+        }, {
+            "tamanho" : "36"
+        }, {
+            "tamanho" : "37"
+        }, {
+            "tamanho" : "38"
+        }, {
+            "tamanho" : "39"
+        }, {
+            "tamanho" : "40"
+        }, {
+            "tamanho" : "41"
+        }, {
+            "tamanho" : "42"
+        }],
+        "galeria" : [{
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }],
+        "descricao": "Rasteira em atanado soft com tira no dedo e fechamento de fivela. Possui sola sempre na cor do cabedal."
+    },{
+        "id": 2,
+        "nome": "Rasteira Tira Dedo",
+        "SKU": "RT 0568 | 03.07.0653",
+        "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg",
+        "precoNormal": 69.00,
+        "precoPromocional": 55.22,
+        "numeroParcelas" : 6,
+        "valorParcela": 9.20,
+        "cores" : [{
+            "cor" : "#A9095E",
+            "nomeCor" : "fucsia"
+        }, {
+            "cor" : "#2A5A75",
+            "nomeCor" : "Azul"
+        }, {
+            "cor" : "#A14830",
+            "nomeCor" : "Laranja"
+        }, {
+            "cor" : "#000000",
+            "nomeCor" : "Preto"
+        }],
+        "tamanhos" : [{
+            "tamanho" : "33"
+        }, {
+            "tamanho" : "34"
+        }, {
+            "tamanho" : "35"
+        }, {
+            "tamanho" : "36"
+        }, {
+            "tamanho" : "37"
+        }, {
+            "tamanho" : "38"
+        }, {
+            "tamanho" : "39"
+        }, {
+            "tamanho" : "40"
+        }, {
+            "tamanho" : "41"
+        }, {
+            "tamanho" : "42"
+        }],
+        "galeria" : [{
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }],
+        "descricao": "Rasteira em atanado soft com tira no dedo e fechamento de fivela. Possui sola sempre na cor do cabedal."
+    },{
+        "id": 3,
+        "nome": "Rasteira Tira Dedo",
+        "SKU": "RT 0568 | 03.07.0653",
+        "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg",
+        "precoNormal": 69.00,
+        "precoPromocional": 55.22,
+        "numeroParcelas" : 6,
+        "valorParcela": 9.20,
+        "cores" : [{
+            "cor" : "#A9095E",
+            "nomeCor" : "fucsia"
+        }, {
+            "cor" : "#2A5A75",
+            "nomeCor" : "Azul"
+        }, {
+            "cor" : "#A14830",
+            "nomeCor" : "Laranja"
+        }, {
+            "cor" : "#000000",
+            "nomeCor" : "Preto"
+        }],
+        "tamanhos" : [{
+            "tamanho" : "33"
+        }, {
+            "tamanho" : "34"
+        }, {
+            "tamanho" : "35"
+        }, {
+            "tamanho" : "36"
+        }, {
+            "tamanho" : "37"
+        }, {
+            "tamanho" : "38"
+        }, {
+            "tamanho" : "39"
+        }, {
+            "tamanho" : "40"
+        }, {
+            "tamanho" : "41"
+        }, {
+            "tamanho" : "42"
+        }],
+        "galeria" : [{
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }],
+        "descricao": "Rasteira em atanado soft com tira no dedo e fechamento de fivela. Possui sola sempre na cor do cabedal."
+    },{
+        "id": 4,
+        "nome": "Rasteira Tira Dedo",
+        "SKU": "RT 0568 | 03.07.0653",
+        "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg",
+        "precoNormal": 69.00,
+        "precoPromocional": 55.22,
+        "numeroParcelas" : 6,
+        "valorParcela": 9.20,
+        "cores" : [{
+            "cor" : "#A9095E",
+            "nomeCor" : "fucsia"
+        }, {
+            "cor" : "#2A5A75",
+            "nomeCor" : "Azul"
+        }, {
+            "cor" : "#A14830",
+            "nomeCor" : "Laranja"
+        }, {
+            "cor" : "#000000",
+            "nomeCor" : "Preto"
+        }],
+        "tamanhos" : [{
+            "tamanho" : "33"
+        }, {
+            "tamanho" : "34"
+        }, {
+            "tamanho" : "35"
+        }, {
+            "tamanho" : "36"
+        }, {
+            "tamanho" : "37"
+        }, {
+            "tamanho" : "38"
+        }, {
+            "tamanho" : "39"
+        }, {
+            "tamanho" : "40"
+        }, {
+            "tamanho" : "41"
+        }, {
+            "tamanho" : "42"
+        }],
+        "galeria" : [{
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }],
+        "descricao": "Rasteira em atanado soft com tira no dedo e fechamento de fivela. Possui sola sempre na cor do cabedal."
+    },{
+        "id": 5,
+        "nome": "Rasteira Tira Dedo",
+        "SKU": "RT 0568 | 03.07.0653",
+        "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg",
+        "precoNormal": 69.00,
+        "precoPromocional": 55.22,
+        "numeroParcelas" : 6,
+        "valorParcela": 9.20,
+        "cores" : [{
+            "cor" : "#A9095E",
+            "nomeCor" : "fucsia"
+        }, {
+            "cor" : "#2A5A75",
+            "nomeCor" : "Azul"
+        }, {
+            "cor" : "#A14830",
+            "nomeCor" : "Laranja"
+        }, {
+            "cor" : "#000000",
+            "nomeCor" : "Preto"
+        }],
+        "tamanhos" : [{
+            "tamanho" : "33"
+        }, {
+            "tamanho" : "34"
+        }, {
+            "tamanho" : "35"
+        }, {
+            "tamanho" : "36"
+        }, {
+            "tamanho" : "37"
+        }, {
+            "tamanho" : "38"
+        }, {
+            "tamanho" : "39"
+        }, {
+            "tamanho" : "40"
+        }, {
+            "tamanho" : "41"
+        }, {
+            "tamanho" : "42"
+        }],
+        "galeria" : [{
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }],
+        "descricao": "Rasteira em atanado soft com tira no dedo e fechamento de fivela. Possui sola sempre na cor do cabedal."
+    },{
+        "id": 6,
+        "nome": "Rasteira Tira Dedo",
+        "SKU": "RT 0568 | 03.07.0653",
+        "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg",
+        "precoNormal": 69.00,
+        "precoPromocional": 55.22,
+        "numeroParcelas" : 6,
+        "valorParcela": 9.20,
+        "cores" : [{
+            "cor" : "#A9095E",
+            "nomeCor" : "fucsia"
+        }, {
+            "cor" : "#2A5A75",
+            "nomeCor" : "Azul"
+        }, {
+            "cor" : "#A14830",
+            "nomeCor" : "Laranja"
+        }, {
+            "cor" : "#000000",
+            "nomeCor" : "Preto"
+        }],
+        "tamanhos" : [{
+            "tamanho" : "33"
+        }, {
+            "tamanho" : "34"
+        }, {
+            "tamanho" : "35"
+        }, {
+            "tamanho" : "36"
+        }, {
+            "tamanho" : "37"
+        }, {
+            "tamanho" : "38"
+        }, {
+            "tamanho" : "39"
+        }, {
+            "tamanho" : "40"
+        }, {
+            "tamanho" : "41"
+        }, {
+            "tamanho" : "42"
+        }],
+        "galeria" : [{
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }],
+        "descricao": "Rasteira em atanado soft com tira no dedo e fechamento de fivela. Possui sola sempre na cor do cabedal."
+    },{
+        "id": 7,
+        "nome": "Rasteira Tira Dedo",
+        "SKU": "RT 0568 | 03.07.0653",
+        "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg",
+        "precoNormal": 69.00,
+        "precoPromocional": 55.22,
+        "numeroParcelas" : 6,
+        "valorParcela": 9.20,
+        "cores" : [{
+            "cor" : "#A9095E",
+            "nomeCor" : "fucsia"
+        }, {
+            "cor" : "#2A5A75",
+            "nomeCor" : "Azul"
+        }, {
+            "cor" : "#A14830",
+            "nomeCor" : "Laranja"
+        }, {
+            "cor" : "#000000",
+            "nomeCor" : "Preto"
+        }],
+        "tamanhos" : [{
+            "tamanho" : "33"
+        }, {
+            "tamanho" : "34"
+        }, {
+            "tamanho" : "35"
+        }, {
+            "tamanho" : "36"
+        }, {
+            "tamanho" : "37"
+        }, {
+            "tamanho" : "38"
+        }, {
+            "tamanho" : "39"
+        }, {
+            "tamanho" : "40"
+        }, {
+            "tamanho" : "41"
+        }, {
+            "tamanho" : "42"
+        }],
+        "galeria" : [{
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }],
+        "descricao": "Rasteira em atanado soft com tira no dedo e fechamento de fivela. Possui sola sempre na cor do cabedal."
+    },{
+        "id": 8,
+        "nome": "Rasteira Tira Dedo",
+        "SKU": "RT 0568 | 03.07.0653",
+        "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg",
+        "precoNormal": 69.00,
+        "precoPromocional": 55.22,
+        "numeroParcelas" : 6,
+        "valorParcela": 9.20,
+        "cores" : [{
+            "cor" : "#A9095E",
+            "nomeCor" : "fucsia"
+        }, {
+            "cor" : "#2A5A75",
+            "nomeCor" : "Azul"
+        }, {
+            "cor" : "#A14830",
+            "nomeCor" : "Laranja"
+        }, {
+            "cor" : "#000000",
+            "nomeCor" : "Preto"
+        }],
+        "tamanhos" : [{
+            "tamanho" : "33"
+        }, {
+            "tamanho" : "34"
+        }, {
+            "tamanho" : "35"
+        }, {
+            "tamanho" : "36"
+        }, {
+            "tamanho" : "37"
+        }, {
+            "tamanho" : "38"
+        }, {
+            "tamanho" : "39"
+        }, {
+            "tamanho" : "40"
+        }, {
+            "tamanho" : "41"
+        }, {
+            "tamanho" : "42"
+        }],
+        "galeria" : [{
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }],
+        "descricao": "Rasteira em atanado soft com tira no dedo e fechamento de fivela. Possui sola sempre na cor do cabedal."
+    },{
+        "id": 9,
+        "nome": "Rasteira Tira Dedo",
+        "SKU": "RT 0568 | 03.07.0653",
+        "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg",
+        "precoNormal": 69.00,
+        "precoPromocional": 55.22,
+        "numeroParcelas" : 6,
+        "valorParcela": 9.20,
+        "cores" : [{
+            "cor" : "#A9095E",
+            "nomeCor" : "fucsia"
+        }, {
+            "cor" : "#2A5A75",
+            "nomeCor" : "Azul"
+        }, {
+            "cor" : "#A14830",
+            "nomeCor" : "Laranja"
+        }, {
+            "cor" : "#000000",
+            "nomeCor" : "Preto"
+        }],
+        "tamanhos" : [{
+            "tamanho" : "33"
+        }, {
+            "tamanho" : "34"
+        }, {
+            "tamanho" : "35"
+        }, {
+            "tamanho" : "36"
+        }, {
+            "tamanho" : "37"
+        }, {
+            "tamanho" : "38"
+        }, {
+            "tamanho" : "39"
+        }, {
+            "tamanho" : "40"
+        }, {
+            "tamanho" : "41"
+        }, {
+            "tamanho" : "42"
+        }],
+        "galeria" : [{
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }],
+        "descricao": "Rasteira em atanado soft com tira no dedo e fechamento de fivela. Possui sola sempre na cor do cabedal."
+    },{
+        "id": 10,
+        "nome": "Rasteira Tira Dedo",
+        "SKU": "RT 0568 | 03.07.0653",
+        "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg",
+        "precoNormal": 69.00,
+        "precoPromocional": 55.22,
+        "numeroParcelas" : 6,
+        "valorParcela": 9.20,
+        "cores" : [{
+            "cor" : "#A9095E",
+            "nomeCor" : "fucsia"
+        }, {
+            "cor" : "#2A5A75",
+            "nomeCor" : "Azul"
+        }, {
+            "cor" : "#A14830",
+            "nomeCor" : "Laranja"
+        }, {
+            "cor" : "#000000",
+            "nomeCor" : "Preto"
+        }],
+        "tamanhos" : [{
+            "tamanho" : "33"
+        }, {
+            "tamanho" : "34"
+        }, {
+            "tamanho" : "35"
+        }, {
+            "tamanho" : "36"
+        }, {
+            "tamanho" : "37"
+        }, {
+            "tamanho" : "38"
+        }, {
+            "tamanho" : "39"
+        }, {
+            "tamanho" : "40"
+        }, {
+            "tamanho" : "41"
+        }, {
+            "tamanho" : "42"
+        }],
+        "galeria" : [{
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }, {
+            "imagem" : "https://d26lpennugtm8s.cloudfront.net/stores/678/173/products/292825-mlb25499501831_042017-o-5b47afc842f787736715165855271199-1024-1024.jpg"
+        }],
+        "descricao": "Rasteira em atanado soft com tira no dedo e fechamento de fivela. Possui sola sempre na cor do cabedal."
+    }]
+}

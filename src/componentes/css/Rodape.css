@@ -1,0 +1,112 @@
+.Rodape {
+    padding-top: 104px;
+}
+
+
+.Linha {
+    margin-top: -18%;
+    padding: 2px!important;
+    color: #AEB6C1;
+    background: #AEB6C1;
+    z-index: 0;
+}
+
+.Redes-sociais i {
+    color: #DE8F75;
+    font-size: 25px;
+    margin: 10px;
+}
+
+.Redes-sociais{
+    margin: 20px;
+}
+
+.Rodape-laranja {
+    background: #DE8F75;
+    padding-top: 1%;
+}
+
+.texto-rodape-laranja {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 18px;
+
+    color: #FFFFFF;
+}
+
+.logo-rodape img{
+    width: 112px;
+}
+
+.col-md-4.Newsletter {
+    z-index: 1000;
+}
+
+@media (max-width:600px) {
+    .Redes-sociais .col {
+        display: flex;
+        flex: 1;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .Rodape {
+        border-top : solid 2px #AEB6C1;
+        padding-top: 0;
+    }
+
+    .Rodape-laranja {
+        padding: 15px 15px 0 15px;
+    }
+    .drop-menu {
+        width: 100%;
+        color: #CED3DA;
+        background: #ffffff;
+        border: 1px solid #CED3DA;
+    }
+    .drop-menu:active {
+        width: 100%;
+        color: #CED3DA;
+        background: #ffffff;
+        border: 1px solid #CED3DA;
+        outline: none;
+    }
+    .drop-menu:focus {
+        width: 100%;
+        color: #CED3DA;
+        background: #ffffff;
+        border: 1px solid #CED3DA;
+        outline: none;
+        box-shadow: none;
+    }
+    .drop-menu:hover {
+        width: 100%;
+        color: #CED3DA;
+        background: #ffffff;
+        border: 1px solid #CED3DA;
+        outline: none;
+        box-shadow: none;
+    }
+    .btn-check:active+.btn-success, .btn-check:checked+.btn-success, .btn-success.active, .btn-success:active, .show>.btn-success.dropdown-toggle {
+        color: #CED3DA;
+        background-color: #ffffff;
+        border-color: #CED3DA;
+        box-shadow: none;
+    }
+    .btn-check:active+.btn-success:focus, .btn-check:checked+.btn-success:focus, .btn-success.active:focus, .btn-success:active:focus, .show>.btn-success.dropdown-toggle:focus {
+        box-shadow: none;
+    }
+    .dropdown-menu.show {
+        width: 100%;
+        text-align: center;
+    }
+    .dropdown-item:hover {
+        background:#FF004C;
+        color: #fff;
+    }
+    .dropdown-item {
+        transition: 0.5s;
+    }
+}

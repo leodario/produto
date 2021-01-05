@@ -1,0 +1,27 @@
+.TituloRelacionados {
+    text-align: center;
+}
+
+.TituloRelacionados h2 {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 38px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #DE8F75;
+}
+
+@media (max-width:600px) {
+    .TituloRelacionados h2 {
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 22px;
+        line-height: 163.42%;
+        text-align: center;
+        text-transform: uppercase;
+        color: #DE8F75;
+    }
+}

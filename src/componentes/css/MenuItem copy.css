@@ -1,0 +1,11 @@
+.MenuItem {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #838383;
+    padding: 0 10px;
+    font-weight: 600;
+}
+
+.MenuItem:hover {
+    color:#FF0148;
+}

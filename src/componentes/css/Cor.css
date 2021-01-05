@@ -1,0 +1,26 @@
+.Botao-cor {
+    transition: 0.5s;
+    border: solid 2px #ffffff;
+    height: 22px;
+    width: 22px;
+    border-radius: 100%;
+}
+
+.Botao-cor:focus {
+    outline: none;
+}
+
+.Botao-cor:active {
+    border-color:#DE8F75;
+    outline: none;
+    border-radius: 100%;
+}
+
+.Botao-cor:hover {
+    border-color:#DE8F75;
+}
+
+.active-cor {
+    border-color:#DE8F75;
+    border-radius: 100%;
+}

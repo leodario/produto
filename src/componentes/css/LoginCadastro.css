@@ -1,0 +1,11 @@
+.LoginCadastro a {
+    text-decoration: none;
+    color: #838383;
+    font-weight: 600;
+    font-size: 0.9em;
+}
+
+.LoginCadastro {
+    color: #838383;
+    text-align: left;
+}

@@ -1,0 +1,20 @@
+.Produto {
+    padding: 0 2.5%;
+}
+
+.Produto .details {
+    padding-top: 20px;
+}
+
+.produto-mobile {
+    display: none;
+}
+
+@media (max-width:600px) {
+    .produto-desktop {
+        display: none;
+    }
+    .produto-mobile {
+        display: block;
+    }
+}
