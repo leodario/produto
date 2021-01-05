@@ -109,4 +109,8 @@
     .dropdown-item {
         transition: 0.5s;
     }
+    .logo-rodape{
+        text-align: center;
+        padding-bottom: 10px;
+    }
 }

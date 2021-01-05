@@ -79,10 +79,10 @@ export default function Rodape() {
             </div>
             <div className="row Rodape-laranja">
                 <div className="col-md-1"></div>
-                <div className="col-md-7">
-                    <p className="texto-rodape-laranja">Via Mia | V. Milano Centro Comercial de Bolsas Eireli - EPP. <br/> Av.das Américas, 500 - bloco 20, loja 126 - Barra da Tijuca - Rio de Janeiro - RJ - CEP: 22640-100 <br/>CNPJ: 05.292.288/0002-10 - I.E: 86.732.548 - <br/>E-mail: ecommerce@viamia.com.br</p>
+                <div className="col-md-9">
+                    <p className="texto-rodape-laranja">Via Mia | V. Milano Centro Comercial de Bolsas Eireli - EPP. Av.das Américas, 500 - bloco 20, loja 126 - Barra da Tijuca - Rio de Janeiro - RJ - CEP: 22640-100. CNPJ: 05.292.288/0002-10 - I.E: 86.732.548 - E-mail: ecommerce@viamia.com.br</p>
                 </div>
-                <div className="col-md-4 logo-rodape text-center">
+                <div className="col-md-2 logo-rodape">
                     <img src={ Logo } alt="Logo"/>
                 </div>
             </div>
