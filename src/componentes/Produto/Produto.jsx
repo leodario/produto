@@ -17,7 +17,7 @@ export default function Produto() {
                 setProduto(res.data)
                 console.log(produto)
           })
-      },[])
+      },[produto])
 
 
     return (
