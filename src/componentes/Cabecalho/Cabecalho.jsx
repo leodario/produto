@@ -5,7 +5,7 @@ import LoginCadastro from './LoginCadastro'
 import Menu from './Menu'
 import Busca from './Busca'
 import Sacola from './Sacola'
-import lupa from '../img/Union.png'
+// import lupa from '../img/Union.png'
 
 export default function Cabecalho() {
     return (
