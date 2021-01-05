@@ -3,3 +3,5 @@ base = "."
 command = "npm run build"
 publish = "./build/"
 
+[build.enviroment]
+REACT_APP_API_URL = "https://5ff3bf7d2fc22716e913d513--optimistic-kepler-e8d09a.netlify.app/produto"
